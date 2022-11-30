@@ -1,0 +1,47 @@
+ body{
+ background-image: url(fundo3.JPG);
+  } 
+
+  h1{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+    color: black;
+    background-color: pink;
+  }
+
+  h2{font: Cosmic Sans Serif;
+    text-align: center;
+    color: white;
+    background-color: gray;
+  }
+
+  h3{font: Cosmic Sans Serif;
+    text-align: center;
+    color: orange;
+    background-color: red;
+  }
+
+  p{ 
+    color: yellow;
+    font-weight: 900;
+    font-style: italic; 
+    font-family: Cosmic Sans Serif;
+    background-color: lightblue; 
+  }
+
+  .c1{
+  	background-color: white;
+  }
+
+  .c2{
+    background-color: lightgreen;
+  }
+
+  .c3{
+  	font-family: Times;
+    font-size: 22px;
+    color: blue;
+    font-style: italic;
+  }
+  
